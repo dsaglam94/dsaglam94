@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-- 
+
+<img src="https://github.com/dsaglam94/dsaglam94/blob/main/javascript-svgrepo-com.svg" width=50 />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94&show_icons=true&theme=tokyonight)
 
