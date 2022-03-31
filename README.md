@@ -10,9 +10,8 @@
 
 I am a self-taught software developer. I started my journey on February 1st 2022. I am currently learning and transitioning from being a teacher to a software nerd. Here I share my projects and ideas. If you ever want to ask something or have a chat with me, please do so because I love hearing from other people!
 
-- 🌱 I’m currently learning JavaScript. 
 
-> You can reach me from links below 👇
+> You can reach me from the links below 👇
 
 [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/linkedin-svgrepo-com.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/d-saglam//)  [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40'>](https://twitter.com/dsaglam94)  [<img src="https://github.com/dsaglam94/dsaglam94/blob/main/art-svgrepo-com.svg" alt='website' height='40'>](https://imdawn.me/) [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='40'>](https://www.instagram.com/monsieur.antika/)
 
@@ -38,7 +37,7 @@ I am a self-taught software developer. I started my journey on February 1st 2022
 Here are some ideas to get you started:
  🔭 I’m currently working on ...
 
-
+- 🌱 I’m currently learning JavaScript. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
