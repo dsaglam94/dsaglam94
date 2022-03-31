@@ -24,9 +24,8 @@ I am a self-taught software developer. I started my journey on February 1st 2022
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/tailwind-svgrepo-com.svg" width=30 />
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94&show_icons=true&theme=tokyonight)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaglam94)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94&show_icons=true)
+ -->
 
 
 
