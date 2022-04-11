@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img 
     width="1000"
     height="500"
     src="https://github.com/dsaglam94/dsaglam94/blob/main/2of.gif"
   />
-</p>
+</p> -->
 
 # Hi there 👋 I am Dawn!
 
