@@ -6,7 +6,7 @@
   />
 </p> -->
 
-# Hi there 👋 I am Dawn!
+# I am Dawn 👋
 
 I am a self-taught software developer. I started my journey on February 1st 2022. I am currently learning and transitioning from being a teacher to a software nerd. Here I share my projects and ideas. If you ever want to ask something or have a chat with me, please do so because I love hearing from other people!
 
