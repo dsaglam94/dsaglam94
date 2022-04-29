@@ -42,7 +42,11 @@
  -->
  <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaglam94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=dsaglam94&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/vahan-sahakyan?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaglam94&layout=compact&langs_count=7&theme=nord"/></a>
+
+  
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaglam94&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
