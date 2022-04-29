@@ -1,14 +1,16 @@
 <!-- <p align="center">
   <img 
     width="1000"
-    height="500"
+    height="200"
     src="https://github.com/dsaglam94/dsaglam94/blob/main/2of.gif"
   />
 </p> -->
 
 # I am Dawn 👋
 
-I am a self-taught software developer. I started my journey on February 1st 2022. I am currently learning and transitioning from being a teacher to a software nerd. Here I share my projects and ideas. If you ever want to ask something or have a chat with me, please do so because I love hearing from other people!
+I am a self-taught software developer who was a teacher. 
+
+> 🌱 I’m currently learning ReactJS. 
 
 
 > You can reach me from the links below 👇
@@ -21,6 +23,7 @@ I am a self-taught software developer. I started my journey on February 1st 2022
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/javascript-svgrepo-com.svg" width=30 />
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/scss-svgrepo-com.svg" width=30 />
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/bootstrap-4-logo-svgrepo-com.svg" width=30 />
+<img src="https://github.com/dsaglam94/dsaglam94/blob/main/tailwind-svgrepo-com.svg" width=30 />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsaglam94)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaglam94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
