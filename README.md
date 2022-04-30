@@ -1,4 +1,6 @@
 <div align="center">
+  
+  <img src="https://github.com/dsaglam94/dsaglam94/blob/main/developer.gif" width=300>
 
 <table>
 <h1>I am Dawn 👋</h1>
