@@ -12,6 +12,7 @@
     <td> CSS / SCSS</td>
     <td> JavaScript</td>
     <td> React JS</td>
+    <td> Node JS</td>
     <td> Tailwind</td>
     <td> Bootstrap</td>
     
