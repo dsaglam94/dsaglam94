@@ -14,6 +14,7 @@
     <td> JavaScript</td>
     <td> React JS</td>
     <td> Node JS</td>
+    <td> Express JS</td>
   </tr>
 
   <table>
