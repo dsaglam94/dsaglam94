@@ -4,7 +4,7 @@
 
 <table>
 <h1>I am Dawn 👋</h1>
-<h3>A former teacher whose passion is tech</h3>
+<h3>A former English & French teacher whose passion is tech</h3>
   <br>
 <h4>MERN stack - Web Developer</h6>
 
