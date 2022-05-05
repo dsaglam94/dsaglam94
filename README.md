@@ -13,10 +13,16 @@
     <td> JavaScript</td>
     <td> React JS</td>
     <td> Node JS</td>
-    <td> Tailwind</td>
-    <td> Bootstrap</td>
-    
   </tr>
+
+  <table>
+    <tr>
+        <td> JQuery </td>
+        <td> Tailwind</td>
+        <td> Bootstrap</td>
+    </tr>
+  </table>
+  
 </table>
       
 <br>
