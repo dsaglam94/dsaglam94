@@ -4,9 +4,9 @@
 
 <table>
 <h1>I am Dawn 👋</h1>
-<h3>A former English & French teacher whose passion is tech</h3>
+<h4>A former English & French teacher whose passion is tech</h4>
   <br>
-<h4>MERN stack - Web Developer</h6>
+<h2>MERN stack - Web Developer</h2>
 
   <tr>
     <td> HTML5</td>
@@ -29,7 +29,7 @@
       
 <br>
   
-  <h3>You can reach me from the links below 👇 </h3>
+  <h4>You can reach me from the links below 👇 </h4>
 
 [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/linkedin-svgrepo-com.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/d-saglam//)  [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40'>](https://twitter.com/dsaglam94)  [<img src="https://github.com/dsaglam94/dsaglam94/blob/main/art-svgrepo-com.svg" alt='website' height='40'>](https://imdawn.me/home) [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='40'>](https://www.instagram.com/monsieur.antika/)
 
