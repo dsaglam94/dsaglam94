@@ -12,9 +12,9 @@
     <td> HTML5</td>
     <td> CSS / SCSS</td>
     <td> JavaScript</td>
-    <td> React JS</td>
-    <td> Node JS</td>
-    <td> Express JS</td>
+    <td> React Js</td>
+    <td> Node Js</td>
+    <td> Express Js</td>
   </tr>
 
   <table>
