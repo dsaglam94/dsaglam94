@@ -9,19 +9,20 @@
 <h2>MERN stack - Web Developer</h2>
 
   <tr>
-    <td> HTML5</td>
-    <td> CSS / SCSS</td>
-    <td> JavaScript</td>
-    <td> React Js</td>
-    <td> Node Js</td>
-    <td> Express Js</td>
+    <td>HTML5</td>
+    <td>CSS / SCSS</td>
+    <td>JavaScript</td>
+    <td>React Js</td>
+    <td>Node Js</td>
   </tr>
 
   <table>
     <tr>
-        <td> JQuery </td>
-        <td> Tailwind</td>
-        <td> Bootstrap</td>
+        <td>JQuery </td>
+        <td>Express Js</td>
+        <td>Tailwind</td>
+        <td>Bootstrap</td>
+        <td>Firebase</td>
     </tr>
   </table>
   
