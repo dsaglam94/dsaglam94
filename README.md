@@ -14,6 +14,7 @@
     <td>JavaScript</td>
     <td>React Js</td>
     <td>Node Js</td>
+    <td>MongoDB</td>
   </tr>
 
   <table>
