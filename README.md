@@ -6,7 +6,7 @@
 <h1>I am Dawn 👋</h1>
 <h4>A former English & French teacher whose passion is tech</h4>
   <br>
-<h2>MERN stack - Web Developer</h2>
+<h2>Full Stack - Web Developer</h2>
 
   <tr>
     <td>HTML5</td>
