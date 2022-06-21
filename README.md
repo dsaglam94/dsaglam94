@@ -12,6 +12,7 @@
     <td>HTML5</td>
     <td>CSS / SCSS</td>
     <td>JavaScript</td>
+    <td>TypeScript</td>    
     <td>React Js</td>
     <td>Node Js</td>
     <td>MongoDB</td>
