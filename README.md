@@ -6,7 +6,7 @@
 <h1>I am Dawn 👋</h1>
 <h4>A former English & French teacher whose passion is tech</h4>
   <br>
-<h2>Full Stack - Web Developer</h2>
+<h2>MERN Developer</h2>
 
   <tr>
     <td>HTML5</td>
@@ -20,7 +20,8 @@
 
   <table>
     <tr>
-        <td>JQuery </td>
+        <td>Next Js </td>
+        <td>JQuery</td>
         <td>Express Js</td>
         <td>Tailwind</td>
         <td>Bootstrap</td>
