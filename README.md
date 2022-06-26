@@ -6,6 +6,7 @@
 <h1>I am Dawn 👋</h1>
 <h4>A former English & French teacher whose passion is tech</h4>
   <br>
+  
 <h2>MERN Developer</h2>
 
   <tr>
@@ -36,6 +37,15 @@
   <h4>You can reach me from the links below 👇 </h4>
 
 [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/linkedin-svgrepo-com.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/d-saglam//)  [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/twitter-svgrepo-com.svg' alt='twitter' height='40'>](https://twitter.com/dsaglam94)  [<img src="https://github.com/dsaglam94/dsaglam94/blob/main/art-svgrepo-com.svg" alt='website' height='40'>](https://imdawn.me/) [<img src='https://github.com/dsaglam94/dsaglam94/blob/main/instagram-svgrepo-com.svg' alt='instagram' height='40'>](https://www.instagram.com/monsieur.antika/)
+  
+  <br>
+<hr>
+  
+  
+   <h4><a href="https://blog.imdawn.me/">You can find my latest blog post from this link</a></h4>
+  <h4>And you can support me</h4>
+  
+  [<img src="https://gtcdn.b-cdn.net/wp-content/uploads/2021/12/download-assets-2.svg" height="60" target="_blank"/>](https://www.buymeacoffee.com/dsaglam94)
 
 </div>
 
