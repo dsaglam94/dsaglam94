@@ -7,7 +7,7 @@
 <h4>A former English & French teacher whose passion is tech</h4>
   <br>
   
-<h2>Full-Stack Developer</h2>
+<h2>Full Stack Developer</h2>
 
   <tr>
     <td>HTML5</td>
