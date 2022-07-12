@@ -22,10 +22,8 @@
   <table>
     <tr>
         <td>Next Js </td>
-        <td>JQuery</td>
         <td>Express Js</td>
-        <td>Tailwind</td>
-        <td>Bootstrap</td>
+        <td>TailwindCSS</td>
         <td>Firebase</td>
     </tr>
   </table>
