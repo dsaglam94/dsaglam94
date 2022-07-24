@@ -25,6 +25,7 @@
         <td>Express Js</td>
         <td>TailwindCSS</td>
         <td>Firebase</td>
+        <td>Strapi</td>
     </tr>
   </table>
   
