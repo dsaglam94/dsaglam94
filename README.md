@@ -59,7 +59,6 @@
 
 <!-- > My current tech stack 👇
 
-<img src="https://github.com/dsaglam94/dsaglam94/blob/main/html-svgrepo-com.svg" width=30 /><img src="https://github.com/dsaglam94/dsaglam94/blob/main/css-svgrepo-com.svg" width=30 />
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/javascript-svgrepo-com.svg" width=30 />
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/scss-svgrepo-com.svg" width=30 />
 <img src="https://github.com/dsaglam94/dsaglam94/blob/main/bootstrap-4-logo-svgrepo-com.svg" width=30 />
