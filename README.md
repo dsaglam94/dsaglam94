@@ -25,7 +25,6 @@
         <td>Express Js</td>
         <td>TailwindCSS</td>
         <td>Chakra UI</td>
-        <td>Firebase</td>
         <td>Strapi</td>
     </tr>
   </table>
